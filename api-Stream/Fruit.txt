@@ -1,0 +1,7 @@
+Apple, Red, 5
+Orange, Orange, 2
+Dragon Fruit, Red, 7
+Coconut, White, 14
+Grape, Purple, 15
+Srawberry, Red, 1
+Berry, Purple, 4
